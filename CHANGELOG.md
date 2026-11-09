@@ -1,6 +1,13 @@
 <!-- markdownlint-disable -->
 # Changelog
 
+## [0.21.5](https://github.com/google/kube-startup-cpu-boost/compare/v0.21.4...v0.21.5) (2026-11-09)
+
+
+### Bug Fixes
+
+* **deps:** bump distroless/static from `d620678` to `25ac8f0` ([#211](https://github.com/google/kube-startup-cpu-boost/issues/211)) ([79b6bc7](https://github.com/google/kube-startup-cpu-boost/commit/79b6bc7c6f922623696023f6a47bdca03a572bba))
+
 ## [0.21.4](https://github.com/google/kube-startup-cpu-boost/compare/v0.21.3...v0.21.4) (2026-11-03)
 
 
